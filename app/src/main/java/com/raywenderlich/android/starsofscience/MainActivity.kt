@@ -60,7 +60,9 @@ class MainActivity : AppCompatActivity() {
     val cardWidth = ViewGroup.LayoutParams.MATCH_PARENT
     val cardHeight = R.dimen.profile_card_height.resToPx(this).toInt()
     val painter = ProfileCardPainter(
-      color = azureColor
+      color = azureColor,
+      avatarRadius = avatarRadius,
+      avatarMargin = avatarMargin
     )
 
     // adding a view to the framwlayout- this framelayout need to be painted and
