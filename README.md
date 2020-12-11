@@ -17,4 +17,7 @@ Using a path makes your shapes scalable and independent of the screen’s resolu
 
 - Using paths we can create more complex shapes and boundaries
 
-- 
+## Credits
+
+[raywenderlich blogs](https://www.raywenderlich.com/9556022-drawing-custom-shapes-in-android)
+
